@@ -1,0 +1,66 @@
+
+.header
+{
+	background-color: red;
+	min-height: 120px;
+	/*margin-bottom: 10px;*/
+}
+
+.banner
+{
+	background-color: green;
+	min-height: 300px;
+	/*margin-bottom: 10px;*/
+}
+.services
+{
+	border: 5px solid orange;
+	min-height: 250px;
+	overflow: hidden;
+}
+.serve
+{
+	min-height: 240px;
+	background-color: lightgreen;
+	float: left;
+	margin: 8px;
+}
+.service1
+{
+	width: 32%;
+}
+.service2
+{
+	width: 32%;
+}
+.service3
+{
+	width: 32%;
+}
+.about
+{
+	border: 4px solid black;
+	min-height: 450px;
+
+	/*margin-bottom: 10px;*/
+}
+.sb
+{
+	border:5px solid brown;
+	min-height: 445px;
+	float: left;
+	margin-left: 2px;
+}
+.sidebar
+{
+	width: 24%;
+}
+.content
+{
+	width: 74%;
+}
+.footer
+{
+	border: 5px solid lightblue;
+	min-height: 100px;
+}
